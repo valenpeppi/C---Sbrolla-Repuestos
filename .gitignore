@@ -1,0 +1,25 @@
+//Archivos de usuario y configuraciones específicas del entorno
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+//Carpetas de compilación y binarios
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+[Rr]elease/
+[Dd]ebug/
+
+//Archivos y carpetas de Visual Studio
+.vs/
+*.csproj.user
+*.vcxproj.filters
+
+//Archivos de paquetes de NuGet
+packages/
+project.lock.json
+project.assets.json
+
+//Otros
+*.nupkg
